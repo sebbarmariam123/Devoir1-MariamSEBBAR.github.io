@@ -1,0 +1,3 @@
+242005001 | 1236 | 24 octobre 2005 | Tomates | 4 | 4.0 | 26 octobre 2005 | 22 Rue du Paradis, Fonty Agadir
+252005001 | 1235 | 25 octobre 2005 | Tomates | 6 | 3.5 | 26 octobre 2005 | 123 Rue des Colibries, Gueliz Marrakech
+252005002 | 1234 | 25 octobre 2005 | Tomates | 8 | 3.0 | 26 octobre 2005 | 45 Avenue des FAR, Casablanca
